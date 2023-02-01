@@ -1,0 +1,16 @@
+# Do not check these into git
+**/__pycache__/
+**/.ipynb_checkpoints/
+.vscode/
+env/
+data/
+0-logs/
+1-nlp_features/
+2-encoding_predictions/
+3-eval-results/
+4-perplexity-results/
+5-finetune-booksum/
+6-rouge-score/
+7-pearson-saved/
+8-RoI-and-pearson-saved/
+9-pearson-voxels-for-brain-plot/
