@@ -1,6 +1,7 @@
-# Training language models for deeper understanding improves brain alignment
+# Training language models to summarize narratives improves brain alignment
 
-This repository contains code for the paper "Training language models for deeper understanding improves brain alignment"
+This repository contains code for the paper "Training language models to summarize narratives improves brain alignment"
+([arXiv](https://arxiv.org/abs/2212.10898), [OpenReview](https://openreview.net/forum?id=KzkLAE49H9b))
 
 ## Setup
 ### Install packages
